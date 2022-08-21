@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: 1007_1_Employee_Producer_Hystrix_Demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jagadish.sanjeevi
+Implementation-Vendor-Id: com.lkm.accenture
+Build-Jdk: 1.8.0_221
+Implementation-URL: http://projects.spring.io/spring-boot/1007_1_Emplo
+ yee_Producer_Hystrix_Demo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
